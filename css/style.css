@@ -229,8 +229,8 @@ blockquote p {
 	 -webkit-transform: translate3d(0,0,0);
 }
 .logo-holder {
-	position: absolute;
-	left:80px;
+	position: fixed;
+	left:20px;
 	top:15px;
 	z-index:11;
 }
