@@ -415,6 +415,7 @@ blockquote p {
 .nav-holder nav {
 	position:relative;
 	float: right;
+     
 }
 .nav-holder nav li{
 	float:left;
@@ -494,6 +495,7 @@ blockquote p {
 	width:100%;
 }
 .nav-button-wrap {
+	 
 	display:none;
 }
 /* ------Sliders------------------------------------------------------------ */ 
