@@ -462,7 +462,7 @@ blockquote p {
 .nav-holder nav li a {
 	float: left;
 	padding: 10px;
-    font-size: 12px;
+    font-size: 20px;
     text-transform: uppercase;
     font-weight: bold;
     line-height: 25px;
@@ -471,13 +471,15 @@ blockquote p {
     transition: all 100ms linear;
 }
 .nav-holder nav li a.act-link   , .nav-holder nav li a:hover{
+    
+   
     color: #999;
 }
 .nav-holder nav li ul a {
 	color:#fff;
 	float:left;
 	width:100%;
-	font-size:12px;
+	font-size:20px;
 	text-align:left;
 	padding:2px 15px;
 	letter-spacing:0px;
@@ -1843,21 +1845,24 @@ blockquote p {
 	font-weight:600;
 	letter-spacing:2px;
 	margin-right:40px;
-	top:24px;
+	top:10px;
 }
 .filter-title i {
+	
 	padding-left:20px;
 }
 .bottom-filter-wrap.hor-filter-wrap {
+	
 	padding-left:20px;
 }
 .hor-filter-wrap .filter-title {
 	top:20px;
 }
 .gallery-filters a {
+	
 	margin-right:10px;
     text-transform: uppercase;
-    font-size: 10px;
+    font-size: 20px;
     font-weight: 600;
 	letter-spacing:2px;
 	color:#666;
