@@ -1448,12 +1448,13 @@ blockquote p {
 .home-main_title_item h4 {
 	color: #fff;
 	text-transform:uppercase;
-	font-size:10px;
+	font-size:30px;
 	letter-spacing:2px;
 	text-align:left;
 	font-weight:500;
 }
 .home-main_title_item p {
+	font-size: 20px;
 	margin-bottom:20px;
 	color: #fff;
 	max-width:450px;
@@ -1749,7 +1750,7 @@ blockquote p {
 	width: 66.6%;
 }
 .four-column .gallery-item {
-	width: 25%;
+	width: 20%;
 }
 .four-column .gallery-item.gallery-item-second   , .two-column .gallery-item{
 	width: 50%;
